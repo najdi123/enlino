@@ -6,7 +6,7 @@ class Footer extends Component {
     return (
       <footer className="footer">
         <div className="container">
-          <span className="text-muted">© Copyright 2018 ENLINO - All Rights Reserved &#169; {new Date().getFullYear()}</span>
+          <span className="text-muted">Copyright ENLINO - All Rights Reserved &#169; {new Date().getFullYear()}</span>
         </div>
       </footer>
     );

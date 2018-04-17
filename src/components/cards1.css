@@ -4,18 +4,19 @@ img {
     height: auto;
 }
 .card {
-
-
+    /*margin: 75px 5px 0 0;*/
+    padding: 0;
     background: #fff;
     color: #333;
+    /*border: 5px solid transparent;*/
 
 
 
 }
-.small{
-    display: grid;
-    grid-template-columns: 25% 23% 23% 23%;
-    grid-gap: 1em;
-    margin-top: -75px;
+/*.small{*/
+    /*display: grid;*/
+    /*grid-template-columns: 25% 23% 23% 23%;*/
+    /*grid-gap: 1em;*/
+    /*margin-top: -75px;*/
 
-}
+/*}*/

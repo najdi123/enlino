@@ -11,9 +11,9 @@ img {
 
 
 }
-.small{
-    display: grid;
-    grid-template-columns: 25% 23% 23% 23%;
-    grid-gap: 1em;
+/*.small{*/
+    /*display: grid;*/
+    /*grid-template-columns: 25% 23% 23% 23%;*/
+    /*grid-gap: 1em;*/
 
-}
+/*}*/

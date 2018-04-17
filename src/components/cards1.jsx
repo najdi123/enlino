@@ -11,7 +11,7 @@ class FlexPage extends Component {
         return (
             <div className="container">
                 <div className="row small">
-                    <div className="card" >
+                    <div className="card col-xs-12 col-md-6 col-lg-3" >
                         <img className="card-img-top" src={pic1} alt="Card image cap" />
                             <div className="card-block">
                                 <h4 className="card-title">طراحی سیستم های تاسیساتی</h4>
@@ -19,7 +19,7 @@ class FlexPage extends Component {
 
                             </div>
                     </div>
-                    <div className="card" >
+                    <div className="card col-xs-12 col-md-6 col-lg-3" >
                         <img className="card-img-top" src={pic2} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">آنالیز مهندسی و محاسباتی</h4>
@@ -30,7 +30,7 @@ class FlexPage extends Component {
 
                         </div>
                     </div>
-                    <div className="card" >
+                    <div className="card col-xs-12 col-md-6 col-lg-3" >
                         <img className="card-img-top" src={pic3} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">خدمات طراحی وب</h4>
@@ -41,7 +41,7 @@ class FlexPage extends Component {
                                 سیستم های محاسباتی</p>
                         </div>
                     </div>
-                    <div className="card" >
+                    <div className="card col-xs-12 col-md-6 col-lg-3" >
                         <img className="card-img-top" src={pic4} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">ایده پردازی</h4>

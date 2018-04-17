@@ -38,9 +38,9 @@ class Parallax extends Component {
                 </section>
 
                 <div className="pimg3">
-                    <div className="ptext">
+
                         <Cards1/>
-                    </div>
+
                 </div>
 
                 <section className="section section-dark">
@@ -49,9 +49,9 @@ class Parallax extends Component {
                 </section>
 
                 <div className="pic3">
-                    <div className="ptext">
+
                         <Cards2/>
-                    </div>
+
                 </div>
 
             </div>
@@ -59,5 +59,4 @@ class Parallax extends Component {
     }
 }
 
-export default Parallax
-;
+export default Parallax;
