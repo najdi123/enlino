@@ -4,12 +4,12 @@ img {
     height: auto;
 }
 .card {
-    /*margin: 75px 5px 0 0;*/
+    margin: 75px 40px 0 40px;
     padding: 0;
     background: #fff;
     color: #333;
     /*border: 5px solid transparent;*/
-
+    width: 80%;
 
 
 }

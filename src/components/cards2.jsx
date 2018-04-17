@@ -11,28 +11,28 @@ class FlexPage extends Component {
         return (
             <div className="container">
                 <div className="row small">
-                    <div className="card col-xs-12 col-md-6 col-lg-3" >
+                    <div className="card col-xs-11 col-md-5 col-lg-2" >
                         <img className="card-img-top" src={pic1} alt="Card image cap" />
                             <div className="card-block">
                                 <h4 className="card-title">بورس و تحلیل تکنیکال</h4>
                                 <p className="card-text">بورس، اوراق بهادار، تحلیل</p>
                             </div>
                     </div>
-                    <div className="card col-xs-12 col-md-6 col-lg-3" >
+                    <div className="card col-xs-11 col-md-5 col-lg-2" >
                         <img className="card-img-top" src={pic2} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">دروس دانشگاهی </h4>
                             <p className="card-text">تدریس، پروژه</p>
                         </div>
                     </div>
-                    <div className="card col-xs-12 col-md-6 col-lg-3" >
+                    <div className="card col-xs-11 col-md-5 col-lg-2" >
                         <img className="card-img-top" src={pic3} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">کنکور و دبیرستان</h4>
                             <p className="card-text">تدریس، تست، مشاوره</p>
                         </div>
                     </div>
-                    <div className="card col-xs-12 col-md-6 col-lg-3" >
+                    <div className="card col-xs-11 col-md-5 col-lg-2" >
                         <img className="card-img-top" src={pic4} alt="Card image cap" />
                         <div className="card-block">
                             <h4 className="card-title">نرم افزارهای مهندسی</h4>
