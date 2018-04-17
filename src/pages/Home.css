@@ -1,0 +1,59 @@
+.top-back{
+    width: 100%;
+    display: block;
+    padding:0;
+    filter: brightness(80%);
+}
+img{
+    display: block;
+    width: 100%;
+}
+.container-fluid{
+    padding: 0;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.text{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.text2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text3{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title{
+    background-color: #aaa;
+    padding: 40px;
+}
+.card-holder{
+    position: relative;
+}
+.card1{
+    padding-top: 400px;
+    padding-left: 100px;
+    position: absolute;
+}
+.card2{
+    padding-top: 400px;
+    padding-left:500px;
+    position: absolute;
+}
+.card-title{
+    color: black;
+}
+.card-text{
+    color: black;
+}
+

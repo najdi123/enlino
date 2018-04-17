@@ -1,0 +1,31 @@
+
+
+
+
+.navbar-brand {
+    color: #333;
+
+}
+
+a {
+    color: #333333;
+    font-weight: 200;
+}
+.header{
+    background-color: #e5e5e5;
+
+    /*font:  300 12px "worksansbold","Open Sans","Arial",sans-serif;*/
+    line-height: 42px;
+    letter-spacing: 2px;
+    text-transform: none;
+}
+.nav-link:hover{
+    color: rgb(0, 240, 220);
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    opacity:0.9;
+}
